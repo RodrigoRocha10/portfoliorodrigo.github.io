@@ -1,0 +1,158 @@
+
+.img1{
+    width: 300px;
+}
+
+.col-md-2{
+    background-color: #54B689;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.col-md-10{
+    background-color: rgb(255, 255, 255);
+}
+
+.img2{
+    width: 50px;
+    border-radius: 50%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+.img3{
+    width: 200px;
+    border-radius: 50%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+.list-inline-item{
+    background-color: aliceblue;
+    width: 60px;    
+}
+
+a{
+    color: #54B689;
+}
+
+.project{
+    background-color: #d0d4d3;
+    text-align: center;
+}
+
+.testimonials{
+    text-align: center;
+}
+
+.col-5{
+    background-color: #dfdfdf;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+h5{
+    font-weight: bold;
+}
+
+.text-project{
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 35px;
+}
+
+.text-apres{
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 85%;
+}
+
+.text-testemonials{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.text1{
+    font-weight: bold;
+    opacity: 85%;
+}
+
+.navbar-nav{
+    font-weight: bold;
+    opacity: 85%;
+}
+
+.cards{
+    justify-content: center;
+}
+
+.card-img-top{
+    width: 341px;
+    height: 200px;
+}
+
+.card-body-1{
+    font-weight: bold;
+    opacity: 85%;
+    background-color: #e6e6e6;
+}
+
+.img-portfolio{
+width: 296px;
+}
+
+.form{
+    background-color: #54B689;
+}
+
+
+.element {
+    font-size: 18px;
+}
+
+
+@media (max-width: 768px) 
+{
+    .element {
+        font-size: 16px;
+    }
+}
+
+  
+@media (min-width: 769px) and (max-width: 991px) 
+{
+    
+}
+  
+@media (min-width: 992px) 
+{
+
+}
+
+.btn{
+    background-color: #54B689;
+    color: #dfdfdf;
+    
+}
+
+.text-progress{
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.progress-bar{
+    background-color: #54B689;
+}
+  
+.testi{
+    background-color: #d0d4d3;
+}
+
+.rocha{
+    color: #54B689;
+    text-decoration: none;
+}
